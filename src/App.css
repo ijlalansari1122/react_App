@@ -1,10 +1,17 @@
 
-/* site header */
-.logo{ background-image: url(../image/download-removebg-preview.png);}
 
-/* .App {
+.App {
   text-align: center;
-} */
+}
+#main{background-color: rgb(77, 107, 161);
+
+text-align: center;
+padding: 120px 100px;
+height: 100%;
+width:100%;
+
+}
+
 
 .App-logo {
   height: 40vmin;
@@ -16,56 +23,8 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-/* .menu nav  {
-  display: inline-block;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-} */
 
- .menu nav ul   {
-
-color: rgb(29, 136, 15);
-display: flex;
-margin: 12px 4px;
-
-
- }
-
-
-
-.App-header {
-  background-color: #b3bbca;
-  min-height: 10vh;
-  display: flex;
-  justify-content: space-between;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
 
 .App-link {
   color: #8dfb61;
 }
-/* MAIN-DIV CSS */
-
-.main-div{
-padding: 20px 10px;
-  background-color: #8dfb61;
-  text-align: center;
-}
-
-.inner-div img{
-
-width: 20em;
-border: 2px solid black;
-/* height: 200px; */
-
-}
-
-.inner-div img:hover{
-
-  width: 30em;
-  border: 3px solid rgb(182, 12, 12);
-  /* height: 200px; */
-  
-  }

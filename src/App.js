@@ -1,45 +1,18 @@
 import React from 'react'; 
 import './App.css';
-import Number from './info';
-import Doc from './doc';
+import  Counter from './Counter'
 
 function App() {
 
 
-  var variant = "This is just a random page with all the required functionalities ";
-
-
-
-  return (
-    <div className="App">
-      <header className="App-header">
-      <Number/>
-      </header>
-      <div>
-<div className='main-div'>
  
-  <h2>World of spies</h2>
-{variant}
-
-<Doc/>
+  return (
+<div id='main'>
+<h1>Welcome to my Counter</h1>
+<Counter/>
 </div>
-
-
-      
-        
-         
-
-
-
-
-
-</div>
-
-
-         </div>
-         
-
-);}
+ 
+)}
 
 
 
