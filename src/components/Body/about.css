@@ -1,0 +1,31 @@
+#about{
+background-image: url(../../image/beach-1236581.jpg);
+width: full-width;
+height: 100%;
+background-position: center;
+background-size: cover;
+
+}
+#about:hover{
+    background-image: url(../../image/london-3833039_1920.jpg);
+    width: full-width;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    
+    }
+#about section{
+padding: 10px 15px;
+
+}
+#about section h1,p{
+font-size: 2em;
+text-align: center;
+
+}
+#about section h1,p:hover{
+font-size: 2.4em;
+text-align: center;
+color: rgb(255, 0, 0);
+
+}

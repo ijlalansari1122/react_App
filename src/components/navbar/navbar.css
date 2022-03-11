@@ -1,0 +1,43 @@
+/* Navbar-css */
+
+
+nav{
+
+    /* display: block; */
+    background-color: aliceblue;
+    font-size: 2em;
+    /* margin:10px 20px; */
+    padding: 12px 14px;
+    
+    }
+    nav:hover{
+
+        background-color: rgb(30, 93, 148);
+        font-size: 2em;
+        /* margin:10px 20px; */
+        padding: 12px 14px;
+        
+        }
+nav ul {display: flex;
+    justify-content:space-evenly ;
+    flex-direction: row;
+    align-items: flex-start;
+    
+}
+nav ul li{
+    list-style: none;
+}
+
+nav ul li a{
+    /* list-style: none; */
+
+text-decoration: none;
+color: black;
+font: 600;
+}
+nav ul li a:hover{
+text-decoration: none;
+color: rgb(209, 6, 6);
+font-size:1.3em ;
+
+}
