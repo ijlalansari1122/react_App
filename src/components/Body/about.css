@@ -1,4 +1,4 @@
-#about{
+#about section{
 background-image: url(../../image/beach-1236581.jpg);
 width: full-width;
 height: 100%;
@@ -6,7 +6,7 @@ background-position: center;
 background-size: cover;
 
 }
-#about:hover{
+#about section:hover{
     background-image: url(../../image/london-3833039_1920.jpg);
     width: full-width;
     height: 100%;
@@ -28,4 +28,10 @@ font-size: 2.4em;
 text-align: center;
 color: rgb(255, 0, 0);
 
+}
+#about .div {
+
+    background-image: url(../../image/panorama-2117310_1920.jpg);
+    background-position: center;
+    background-size: cover;
 }

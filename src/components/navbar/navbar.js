@@ -6,7 +6,7 @@ const Navbar=()=>{
     return(
  
  <nav>
- <ul><li><a href="#">
+ <ul><li><a href="#task">
    home</a></li>
    <li><a href="#">
    About</a>
