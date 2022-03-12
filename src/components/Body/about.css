@@ -18,7 +18,7 @@ background-size: cover;
 padding: 10px 15px;
 
 }
-#about section h1,p{
+#about section h1,p {
 font-size: 2em;
 text-align: center;
 
@@ -35,3 +35,13 @@ color: rgb(255, 0, 0);
     background-position: center;
     background-size: cover;
 }
+#about section #btn {
+text-align: center;
+font-size: 1em;
+color: black;
+}
+#about section  #btn:hover {
+    text-align: center;
+    font-size: 1em;
+    color: rgb(255, 255, 255);
+    }

@@ -11,6 +11,7 @@ return(
 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.<br /> 
 Nobis dicta ex sequi eaque,<br /> 
 sed ipsum a expedita nesciunt molestiae quas.</p>
+<button id="btn">Read more</button>
 </section>
 <br />
 <section>
