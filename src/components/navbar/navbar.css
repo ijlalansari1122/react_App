@@ -22,6 +22,7 @@ nav ul {display: flex;
     justify-content:space-evenly ;
     flex-direction: row;
     align-items: flex-start;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     
 }
 nav ul li{
